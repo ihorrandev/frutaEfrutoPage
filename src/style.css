@@ -1,0 +1,49 @@
+.imagemcarrossel {
+    height: 400px;
+    object-fit: cover;
+    object-position: 0 80%;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
+
+h1 {
+    font-family: Pacifico,Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+    font-family: Pacifico,Arial, Helvetica, sans-serif;
+}
+
+.fonte {
+    font-family: Pacifico,Arial, Helvetica, sans-serif;
+}
+
+.cor-especial {
+    color: darkred!important;
+}
+
+.botao-corespecial {
+    background-color: darkred;
+    border-color: darkred;
+
+}
+
+.botao-corespecial:hover {
+    background-color: rgb(214, 18, 60);
+    border-color:rgb(214, 18, 60) ;
+}
+
+.borda-card {
+    border-color: darkred;
+}
+
+.imagem-card {
+    object-fit: cover;
+    height: 200px;
+}
+
+.cor {
+    background-color: darkred;
+}
